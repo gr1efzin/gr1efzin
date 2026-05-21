@@ -12,5 +12,5 @@
 ### contact me
 
 - discord: griefzin
-- twitter/x: [@gr1efzin](https://twitter.com/gr1efzin)
-- email: [hey@gr1efzin.dev](mailto:hey@gr1efzin.dev)
+- twitter/x
+- email
