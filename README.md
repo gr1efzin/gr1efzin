@@ -1,7 +1,8 @@
 ## Just a CS student having fun
 
-<img width="300" height="300" align="right" alt="zfey36ripquc1" src="https://github.com/user-attachments/assets/4141a042-08a8-446f-8092-eb17dc0a2158" />
-
+<p align="center">
+  <img width="300" height="300" alt="zfey36ripquc1" src="https://github.com/user-attachments/assets/4141a042-08a8-446f-8092-eb17dc0a2158" />
+</p>
 
 ### about me
 
