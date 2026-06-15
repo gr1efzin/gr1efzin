@@ -12,6 +12,6 @@
 
 ### contact me
 
-- discord: griefzin
+- discord: gr1efzin
 - twitter/x
 - email
